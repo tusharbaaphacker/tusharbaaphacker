@@ -13,7 +13,7 @@ I enjoy bringing ideas to life through code and constantly learning new technolo
 - 🎨 Building an advanced **Animated Rangoli Project** using HTML, CSS & JavaScript
 - 💡 Always exploring new tools and frameworks to sharpen my full-stack skills
 - ⚙️ Focused on writing clean, maintainable, and optimized code
-- 📫 Reach me at: **tushar.devconnect@gmail.com** *(example – replace with your real email)*
+- 📫 Reach me at: **Shuklat726@gmail.com**
 
 ---
 
